@@ -1,0 +1,6 @@
+framework module Pods_foundApp {
+  umbrella header "Pods-foundApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
